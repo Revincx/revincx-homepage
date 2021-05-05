@@ -1,0 +1,36 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: 'icomoon';
+  src:  url('/asset/fonts/icomoe/icomoon.eot') format('embedded-opentype'),
+  url('/assets/fonts/icomoe/icomoon.ttf') format('truetype'),
+  url('/assets/fonts/icomoe/icomoon.woff') format('woff'),
+  url('/assets/fonts/icomoe/icomoon.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: YellowPeas;
+  src: url("/assets/fonts/yellow-peas.ttf") format("TrueType");
+}
+
+@font-face {
+  font-family: MoeFonts;
+  src: url("/assets/fonts/moefont.ttf") format("TrueType");
+}
+
+a{
+  -webkit-tap-highlight-color:rgba(255,0,0,0);
+  color: white;
+}
+
+p {
+  margin: 0;
+}
+
