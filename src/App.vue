@@ -17,7 +17,7 @@
 
 </template>
 <script>
-import Config from "src/config"
+import Config from "src/config.json"
 import Background from "src/components/Background.vue";
 import Avatar from "src/components/view/Avatar.vue";
 import OneWord from "src/components/view/OneWord.vue";
@@ -55,10 +55,12 @@ export default {
   width: 100%;
   height: 100%;
   position: absolute;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  /*display: flex;*/
+  /*flex-direction: column;*/
+  /*justify-content: center;*/
+  /*align-items: center;*/
+
+  @apply flex justify-center items-center
 }
 
 .blur {

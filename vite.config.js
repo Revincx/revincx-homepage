@@ -1,6 +1,6 @@
 const { resolve } = require('path')
 const { minifyHtml,injectHtml } = require('vite-plugin-html')
-import config from './src/config.js'
+import config from './src/config.json'
 import vue from '@vitejs/plugin-vue'
 
 export default {

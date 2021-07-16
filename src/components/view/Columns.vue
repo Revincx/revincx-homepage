@@ -3,7 +3,7 @@
     <ul>
       <li v-for="item in config.columns">
         <a :href="item.link" target="_blank">
-          <p class="item">{{ item.name }}</p>
+          <p class="item ">{{ item.name }}</p>
         </a>
       </li>
     </ul>
