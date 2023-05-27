@@ -1,7 +1,7 @@
 {
     "title": "Revincx | 向更远的方向进发",
     "favico": "/assets/favico.png",
-    "pageBackground": "https://tva3.sinaimg.cn/large/9bd9b167gy1g2ql6zol6qj21hc0u07wh.jpg",
+    "pageBackground": "https://image.baidu.com/search/down?url=https://tva3.sinaimg.cn/large/9bd9b167gy1g2ql6zol6qj21hc0u07wh.jpg",
     "avatarImage": "https://cdn.jsdelivr.net/gh/Revincx/blog-assets@master/images/avatar.jpg",
     "avatarText": "いくよ !",
     "name": "Revincx",
@@ -25,7 +25,9 @@
             "小知识：字母表的字母是按字母表顺序排列的",
             "当你无法回头时，才是真正的旅途。",
             "意志坚定与任性，只有一纸之隔。",
-            "今天也没什么干劲，明天再开始努力吧。"
+            "今年也没什么干劲，明天再开始努力吧。",
+            "自强不强，不强自息。",
+            "Just be yourself."
         ]
     },
     "columns": [
@@ -38,12 +40,12 @@
             "link": "https://blog.revincx.icu/"
         },
         {
-            "name": "接口",
-            "link": "https://api.revincx.icu/"
-        },
-        {
             "name": "网盘",
             "link": "https://cloud.revincx.icu"
+        },
+        {
+            "name": "友链",
+            "link": "https://blog.revincx.icu/link/"
         },
         {
             "name": "关于",
@@ -65,7 +67,7 @@
         },
         {
             "icon": ["fas","envelope"],
-            "link": "mailto:revincx@outlook.com"
+            "link": "mailto:i@revincx.icu"
         }
     ],
     "moeICP": {
